@@ -1,0 +1,14 @@
+{
+  "name": "todo-app_jquery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "author": "Alex Moglia",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.0.1"
+  }
+}
